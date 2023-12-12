@@ -20,8 +20,8 @@ Bu uygulama, otel analizleri ve yüzdelik analizler gibi çeşitli özellikler s
 - Uygulama üzerinde genel kontrol sağlama
 
 ## Fotoğraflar
-![Resim1](foto/profil_sayfa.png)
-![Resim1](foto/analiz-sayfa.png)
-![Resim1](foto/otel_ekle_sayfa.png)
-![Resim1](foto/hata-bildir.png)
-![Resim1](foto/id-ler-foto.png)
+![Resim1](Foto/profil_sayfa.png)
+![Resim1](Foto/analiz-sayfa.png)
+![Resim1](Foto/otel_ekle_sayfa.png)
+![Resim1](Foto/hata-bildir.png)
+![Resim1](Foto/id-ler-foto.png)
