@@ -5,9 +5,7 @@ Bu uygulama, otel analizleri ve yüzdelik analizler gibi çeşitli özellikler s
 ## Özellikler
 
 ### Otel Analizleri
-
-- Otel fiyatları üzerinde detaylı analiz
-- Seyahat planları için bütçe dostu seçenekleri belirleme
+- Otel fiyatları ve şirketleri gösterme
 
 ### Yüzdelik Analizler
 
